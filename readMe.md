@@ -13,9 +13,9 @@ Repo ini Buat belajar crawling data berita Online
 
 ## Installation
 
-Yang perlu di siapkaan
+Yang perlu di siapkan 
 
 ```bash
     pip install -r requirements.txt
 ```
-    
+dan tambahkan filex excel setiap untuk menyimpaan setiap hasil scrapping
