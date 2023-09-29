@@ -2,7 +2,7 @@
 # Crawling Berita Online yang ada di Indonesia
 
 Repo ini Buat belajar crawling data berita online di Indonesia dari berita nasional dan berita daerah yang mengunakan jupyter notebook 
-dan masih ada update selanjutnya dari repo ini
+dan masih ada update selanjutnya dari repo ini 
 
 
 
@@ -21,4 +21,3 @@ Yang perlu di siapkan
     pip install -r requirements.txt
 ```
 Informasi Tambahan siapkan selenium dan setup di sesuai tempat anda
-dan file excel setiap untuk menyimpaan setiap hasil scrapping
