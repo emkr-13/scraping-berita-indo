@@ -1,0 +1,7 @@
+Berita Nasional 
+- Detik
+    - Sejauhini aman sih gak ada masalah jumlah
+- Antara News
+    - Batas index cuma 100 index jadi data max sekali nambah 1500
+- CBNC 
+    - Ini masih stiill Progress agak beda 
