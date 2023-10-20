@@ -2,6 +2,9 @@ Berita Nasional
 - Detik
     - Sejauhini aman sih gak ada masalah jumlah
 - Antara News
-    - Batas index cuma 100 index jadi data max sekali nambah 1500
+    - Batas index cuma 100 index jadi data max sekali nambah 1500 
 - CBNC 
-    - Ini masih stiill Progress agak beda 
+    - Ini masih stiill Progress loop per hari untuk ambil berita per day 
+- CNN
+    - Masalah data yang dari keyword berbeda opsi coba metedo lain dan juga loop per hari 
+- 
